@@ -1,6 +1,5 @@
 import React from "react"
 
-
 const Detalhes = props => (
 
     <div>
