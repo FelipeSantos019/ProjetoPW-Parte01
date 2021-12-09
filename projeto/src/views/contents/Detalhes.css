@@ -1,0 +1,15 @@
+.Detalhes h1 {
+        font-size: 30px; 
+        text-align: center;
+        color: #FFFFFF;
+        padding: 10px;
+}
+
+.Detalhes h2 {
+    flex: 1;
+    font-size: 20px;
+    text-align: justify; 
+    padding: 10px 100px;
+    font-weight: bold;
+    color: #FFFFFF;
+}

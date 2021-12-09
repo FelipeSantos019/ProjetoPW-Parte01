@@ -1,10 +1,10 @@
 import React from "react"
+import './Detalhes.css'
 
 const Detalhes = props => (
-
+    <main className="Detalhes">
     <div>
-        <h1>
-        Biografia de Cillian Murphy</h1>
+        <h1>   Biografia de Cillian Murphy</h1>
         <h2>Cillian Murphy é um ator e cantor irlandês, mais conhecido
              por interpretar Thomas Shelby em Peaky Blinders. Para surpresa de todos, Murphy cursava 
              Direito na University College Cork. Entretanto, após um ano, desistiu da faculdade e 
@@ -26,5 +26,6 @@ const Detalhes = props => (
              Knight recebeu uma mensagem de Murphy dizendo: “Lembre-se, eu sou um ator”, e compreendeu 
              que deveria ser ele a pessoa a interpretar o personagem principal.</h2>
     </div>
+    </main>
 )
 export default Detalhes
