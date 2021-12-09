@@ -1,6 +1,5 @@
 import React from "react"
 import './Detalhes.css'
-
 const Detalhes = props => (
     <main className="Detalhes">
     <div>
@@ -10,7 +9,6 @@ const Detalhes = props => (
              Direito na University College Cork. Entretanto, após um ano, desistiu da faculdade e 
              ingressou na Corcadorca Theatre Company. Seu primeiro papel importante nos palcos foi em 
              “Disco Pigs”</h2>
-
              <h2>Depois da peça, Murphy foi convidado a reinterpretar o papel para o filme que 
             adaptou a obra 
             original. Vale ressaltar que ele também escreveu e cantou a música “So New”, parte da trilha 
@@ -18,7 +16,6 @@ const Detalhes = props => (
             passou a chamar a atenção dos grandes estúdios. Daí por diante, ele começou a ser o 
             “queridinho de Christopher Nolan”, participando da maioria das produções do diretor, como por 
             exemplo: A Trilogia Batman (2005-2012), A Origem (2010) e Dunkirk (2017).</h2>
-
             <h2>Sempre visto como um coadjuvante de luxo em Hollywood,
              Cillian Murphy só conseguiu mudar o seu status em 2013, quando começou a interpretar Thomas 
              Shelby em Peaky Blinders. A princípio, Steven Knight, o criador da série, não queria que 
